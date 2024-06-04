@@ -1,1 +1,1 @@
-This repo will contain my projects and homework solutions for CHEM101.6. 
+This repo is complete with all of my finished HWs for CHEM101.6.
